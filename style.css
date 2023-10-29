@@ -10,9 +10,26 @@ body {
 
 h1 {
     text-align: center;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
 }
 
 a:hover {
     color: purple
 }
+
+li {
+    list-style: none;
+    font-size: 20px;
+}
+
+/*///////////// NAVIGATION //////////////////////////*/
+
+nav {
+    text-align: center;
+    border-style: dotted
+    border-color: black;
+}
+
+
+
