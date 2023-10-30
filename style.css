@@ -32,4 +32,20 @@ nav {
 }
 
 
+/*///////////// BUTTON //////////////////////////*/
+#wordz {
+    background-color: #b953b9;
+    color: white;
+    padding: 15px 32px;
+    margin-bottom: 2%;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
 
+#wordz:hover, #wordz:active {
+    /* swap colors */
+    color: #EBF5FF;
+    background-color: #4312AE;
+    cursor: pointer; /* displays hand */
+  }
